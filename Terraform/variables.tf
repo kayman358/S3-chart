@@ -3,7 +3,7 @@
 variable "bucket_name" {
   description = "Value of the bucket"
   type        = string
-  default     = "my-test-bucket-kayman358"
+  default     = "my-helm-chartzs"
 }
 
 
